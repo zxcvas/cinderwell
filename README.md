@@ -1,6 +1,5 @@
 # Cinderwell
 
-Public web build of Cinderwell, a side-scrolling pixel dungeon crawler.
+In-development side-scrolling pixel dungeon crawler. This GitHub repo is a public host stub.
 
-- **Play:** https://zxcvas.github.io/cinderwell/
-- **Landing:** https://zxcvas.github.io/cinderwell/landing.html
+The playable source of truth is the Origin project. A GitHub Pages build will land here once the game source is fully mirrored.
